@@ -1,0 +1,13 @@
+﻿Sign,Best Match (Compatible),Favorable Match (Compatible) ,Bad Match (Conflict),Harmful Match (Avoid)
+Rat,"Dragon, Monkey",Ox,"Snake, Rooster, Horse",Goat
+Ox,"Snake, Rooster",Rat,"Tiger, Dragon, Goat",Horse
+Tiger,"Horse, Dog",Pig,"Ox, Monkey",Snake
+Rabbit,"Goat, Pig","Dog, Rabbit","Snake, Rooster",Dragon
+Dragon,"Monkey, Rat",Rooster,"Ox, Dog, Dragon",Rabbit
+Snake,"Rooster, Ox",Monkey,"Rabbit, Dog, Rat, Pig",Tiger
+Horse,"Horse, Dog, Tiger",Goat,Rat,Ox
+Goat,"Goat, Pig, Rabbit",Horse,"Rooster, Ox",Rat
+Monkey,"Rat, Dragon",Snake,Tiger,Pig
+Rooster,"Ox, Snake",Dragon,"Rooster, Rat, Rabbit",Dog
+Dog,"Tiger, Horse",Rabbit,"Snake, Dragon",Rooster
+Pig,"Rabbit, Goat",Tiger,Snake,Monkey
